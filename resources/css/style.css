@@ -1,0 +1,13 @@
+body {
+	text-align:center;
+	font-family:Helvetica, Verdana, sans-serif;
+}
+
+nav, nav ul {
+	list-style-type: none;
+}
+
+.flatiron-img {
+	background:url(../img/flatiron.png);
+	background-size:cover;
+}
