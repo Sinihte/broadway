@@ -21,6 +21,10 @@ h1 {
 	font-weight:bold;
 }
 
+h2 {
+	font-size:32px;
+}
+
 .flatiron-img {
 	background:url(../img/flatiron.png) no-repeat;
 	background-size:cover;
