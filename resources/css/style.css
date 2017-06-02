@@ -10,6 +10,7 @@ nav {
 nav a {
 	display:block;
 	line-height:2;
+	color:white;
 }
 
 h1, h2, h3 {
@@ -27,7 +28,7 @@ h2 {
 
 .flatiron-img {
 	background:url(../img/flatiron.png) no-repeat;
-	background-size:cover;
+	background-size: cover;
 }
 
 h2.flatiron-img {
